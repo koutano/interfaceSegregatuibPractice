@@ -1,0 +1,7 @@
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0615 git interface\interfaceSegregatuibPractice\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe.config
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0615 git interface\interfaceSegregatuibPractice\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0615 git interface\interfaceSegregatuibPractice\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.pdb
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0615 git interface\interfaceSegregatuibPractice\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csproj.AssemblyReference.cache
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0615 git interface\interfaceSegregatuibPractice\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0615 git interface\interfaceSegregatuibPractice\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.exe
+C:\Users\田上　皓基\OneDrive\デスクトップ\学校関連\3年\GameProgramming\2023 0615 git interface\interfaceSegregatuibPractice\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.pdb

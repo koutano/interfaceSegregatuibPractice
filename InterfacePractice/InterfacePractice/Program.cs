@@ -11,17 +11,25 @@ namespace InterfacePractice
     {
         void eat();
         void sleep();
+        //void fly();
+        //void swim();
+    }
+    public interface IBird : IAnimal
+    {
         void fly();
-        void swim();
     }
 
+    public interface IHuman : IAnimal
+    {
+        void swim();
+    }
     
     internal class Program
     {
         static void Main(string[] args)
         {
             Human human = new Human();
-            human.fly();
+            human.eat();
 
         }
     }
